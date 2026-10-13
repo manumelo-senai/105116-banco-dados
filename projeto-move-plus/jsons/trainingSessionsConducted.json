@@ -1,0 +1,22 @@
+{
+  "_id": "trl001",
+  "userId": "usr001",
+  "planId": "pln001",
+  "date": "2026-10-13T18:30:00Z",
+  "exercises": [
+    {
+      "exerciseId": "exe001",
+      "sets": 4,
+      "repetitions": 9,
+      "load": "42kg",
+      "duration": null
+    },
+    {
+      "exerciseId": "exe002",
+      "sets": 3,
+      "repetitions": 12,
+      "load": "15kg",
+      "duration": null
+    }
+  ]
+}

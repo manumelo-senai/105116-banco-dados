@@ -1,0 +1,21 @@
+{
+  "_id": "pln001",
+  "userId": "usr001",
+  "name": "Treino A - Peito e Tríceps",
+  "exercises": [
+    {
+      "exerciseId": "exe001",
+      "sets": 4,
+      "repetitions": 10,
+      "load": "40kg",
+      "duration": null
+    },
+    {
+      "exerciseId": "exe002",
+      "sets": 3,
+      "repetitions": 12,
+      "load": "15kg",
+      "duration": null
+    }
+  ]
+}
